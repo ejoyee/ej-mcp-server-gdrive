@@ -9,8 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "outDir": "./dist",
-    "rootDir": ".", 
-    "preserveShebang": true
+    "rootDir": "."
   },
   "include": ["./**/*.ts"],
   "exclude": ["node_modules"]
